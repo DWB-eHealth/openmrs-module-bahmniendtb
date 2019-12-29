@@ -24,6 +24,8 @@
         <require_module version="4.1.0">
             org.openmrs.module.dataintegrity
         </require_module>
+        <require_module>org.openmrs.module.auditlog</require_module>
+
     </require_modules>
     <!-- / Required Modules -->
 

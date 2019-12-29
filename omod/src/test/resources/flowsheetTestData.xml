@@ -40,7 +40,7 @@
     <!-- Tuberculosis End of treatment Date -->
     <concept concept_id="5109" retired="false" datatype_id="4" class_id="11" is_set="false" creator="501" date_created="2004-08-12 00:00:00.0" version="" changed_by="1" date_changed="2005-02-25 11:43:43.0" uuid="d192c80f-1yz9-4da3-bb88-8122ce889089"/>
     <concept_name concept_id="5109" concept_name_id="1430" name="Tuberculosis treatment end date" locale="en" creator="1" date_created="2004-08-12 00:00:00.0" concept_name_type="FULLY_SPECIFIED" locale_preferred="1" voided="false" uuid="d102c80f-1yz9-4da3-0088-8122ce8868eg"/>
-    <obs obs_id="3000" concept_id="5109" person_id="5000" encounter_id="1890" value_numeric="100" value_datetime="2016-03-16 00:00:00.0" obs_datetime="2008-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="618f507a-fb899-11e3-bb80-996addb6f9we" creator="1" voided="0" />
+    <obs obs_id="3000" concept_id="5109" person_id="5000" encounter_id="1890" value_numeric="100" value_datetime="2016-03-16 00:00:00.0" obs_datetime="2008-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="618f507a-fb899-11e3-bb80-996addb6f9we" creator="1" voided="0" status="FINAL"/>
 
 
     <!-- Bedaquiline Drug Order -->
@@ -64,12 +64,12 @@
     <!-- Systolic Obs -->
     <concept concept_id="4022" retired="false" datatype_id="4" class_id="11" is_set="false" creator="501" date_created="2004-08-12 00:00:00.0" version="" changed_by="1" date_changed="2005-02-25 11:43:43.0" uuid="d102c80f-1119-4da3-bb88-8122ce889089"/>
     <concept_name concept_id="4022" concept_name_id="1422" name="Systolic" locale="en" creator="1" date_created="2004-08-12 00:00:00.0" concept_name_type="FULLY_SPECIFIED" locale_preferred="1" voided="false" uuid="d102c80f-1129-1121-0099-8122ce8868eg"/>
-    <obs obs_id="1500" concept_id="4022" person_id="5000" encounter_id="1890" value_numeric="70" value_datetime="2016-02-16 00:00:00.0" obs_datetime="2008-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="6d8f507a-f1199-1212-bb80-996addb6f9we" creator="1" voided="0" />
+    <obs obs_id="1500" concept_id="4022" person_id="5000" encounter_id="1890" value_numeric="70" value_datetime="2016-02-16 00:00:00.0" obs_datetime="2008-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="6d8f507a-f1199-1212-bb80-996addb6f9we" creator="1" voided="0" status="FINAL"/>
 
     <!-- Diastolic Obs -->
     <concept concept_id="4023" retired="false" datatype_id="4" class_id="11" is_set="false" creator="501" date_created="2004-08-12 00:00:00.0" version="" changed_by="1" date_changed="2005-02-25 11:43:43.0" uuid="d102c80f-1119-4da3-1211-8122ce889123"/>
     <concept_name concept_id="4023" concept_name_id="1423" name="Diastolic" locale="en" creator="1" date_created="2004-08-12 00:00:00.0" concept_name_type="FULLY_SPECIFIED" locale_preferred="1" voided="false" uuid="d102c80f-1129-1211-0099-8122ce886345"/>
-    <obs obs_id="1501" concept_id="4023" person_id="5000" encounter_id="1890" value_numeric="70" value_datetime="2016-02-11 00:00:00.0" obs_datetime="2008-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="6d8f507a-f1199-1212-bb80-996addb6f333" creator="1" voided="0" />
+    <obs obs_id="1501" concept_id="4023" person_id="5000" encounter_id="1890" value_numeric="70" value_datetime="2016-02-11 00:00:00.0" obs_datetime="2008-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="6d8f507a-f1199-1212-bb80-996addb6f333" creator="1" voided="0" status="FINAL" />
 
     
 

@@ -75,7 +75,6 @@
                 <type>jar</type>
                 <scope>provided</scope>
             </dependency>
-
             <dependency>
                 <groupId>org.openmrs.api</groupId>
                 <artifactId>openmrs-api</artifactId>

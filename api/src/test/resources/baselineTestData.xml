@@ -36,6 +36,6 @@
                   uuid="5d2d4cb7-955b-4837-80f7-0ebb94092qqb" concept_name_type="FULLY_SPECIFIED" locale_preferred="0"/>
 
     <obs obs_id="1" concept_id="190" person_id="5190" encounter_id="39" obs_datetime="2008-08-18 15:09:05.0"
-         date_created="2008-08-18 15:09:05.0" uuid="6d8f507a-fb89-11e3-bb80-f18addb6f9ae" creator="1" voided="0"/>
+         date_created="2008-08-18 15:09:05.0" uuid="6d8f507a-fb89-11e3-bb80-f18addb6f9ae" creator="1" voided="0" status="FINAL"/>
 
 </dataset>

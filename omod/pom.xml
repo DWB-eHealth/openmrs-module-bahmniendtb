@@ -180,6 +180,12 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
+            <groupId>org.openmrs.module</groupId>
+            <artifactId>auditlog-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
             <groupId>org.bahmni.module</groupId>
             <artifactId>reference-data-api</artifactId>
             <version>${bahmniVersion}</version>
