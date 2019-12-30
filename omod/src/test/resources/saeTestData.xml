@@ -12,12 +12,12 @@
     <episode_patient_program episode_id="101" patient_program_id="459"/>
     <episode_encounter episode_id="101" encounter_id="891"/>
 
-    <obs obs_id="3001" concept_id="501" person_id="5190" encounter_id="891" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid3001" creator="1" voided="0" />
-        <obs obs_id="30011" obs_group_id="3001" concept_id="502" person_id="5190" encounter_id="891" value_datetime="2017-02-01 00:00:00.0" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid30011" creator="1" voided="0" />
-        <obs obs_id="30012" obs_group_id="3001" concept_id="503" person_id="5190" encounter_id="891" value_datetime="2017-02-02 00:00:00.0" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid30012" creator="1" voided="0" />
-        <obs obs_id="30013" obs_group_id="3001" concept_id="504" person_id="5190" encounter_id="891" value_coded="5042" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid30013" creator="1" voided="0" />
-        <obs obs_id="30014" obs_group_id="3001" concept_id="506" person_id="5190" encounter_id="891" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid30014" creator="1" voided="0" />
-            <obs obs_id="300141" obs_group_id="30014" concept_id="5065" person_id="5190" encounter_id="891" value_coded="1" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid300141" creator="1" voided="0" />
+    <obs obs_id="3001" concept_id="501" person_id="5190" encounter_id="891" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid3001" creator="1" voided="0" status="FINAL"/>
+        <obs obs_id="30011" obs_group_id="3001" concept_id="502" person_id="5190" encounter_id="891" value_datetime="2017-02-01 00:00:00.0" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid30011" creator="1" voided="0" status="FINAL"/>
+        <obs obs_id="30012" obs_group_id="3001" concept_id="503" person_id="5190" encounter_id="891" value_datetime="2017-02-02 00:00:00.0" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid30012" creator="1" voided="0" status="FINAL"/>
+        <obs obs_id="30013" obs_group_id="3001" concept_id="504" person_id="5190" encounter_id="891" value_coded="5042" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid30013" creator="1" voided="0" status="FINAL"/>
+        <obs obs_id="30014" obs_group_id="3001" concept_id="506" person_id="5190" encounter_id="891" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid30014" creator="1" voided="0" status="FINAL"/>
+            <obs obs_id="300141" obs_group_id="30014" concept_id="5065" person_id="5190" encounter_id="891" value_coded="1" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid300141" creator="1" voided="0" status="FINAL"/>
             <!--<obs obs_id="300142" obs_group_id="30014" concept_id="4064" person_id="5190" encounter_id="891" obs_datetime="2016-08-18 15:09:05.0" date_created="2008-08-18 15:09:05.0" uuid="uuid300142" creator="1" voided="0" />-->
 
 </dataset>
